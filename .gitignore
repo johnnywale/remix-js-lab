@@ -1,0 +1,11 @@
+node_modules
+.husky
+.ideac
+/.cache
+/build
+/public/build
+.env
+.vscode
+.env
+postgresql_data
+.idea
